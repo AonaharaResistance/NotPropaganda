@@ -68,14 +68,13 @@ monogatari.characters({
 monogatari.script({
   // The game starts here.
   Start: [
-    "y Long ago a great kingdom founded by the mighty food",
-    "y the kingdom was prosperosus",
-    "y but then they started to introduced government which is cringe",
-	"jump Dial1"
+    "Not so long time ago, a kingdom was founded, a kingdom that will later be known for it's greatness.",
+    "The kingdom is lead by elite aonaharian, their supreme leader food, and his 6 loyal role leaders.",
+    "The people living there was happy and the kingdom was properosus, they are having the best time of their life.",
+    "Unfortunately this didn't last long...",
+    "The caring leaders and elite became something different...",
+    "Colder than the ice darker than the night, as if someone or something changed their mind and soul overnight.",
+    "The kingdom is now in shamble, everyone is wondering what is going on deep inside the royal palace of the elites.",
+    "Each person who dare to seek the answer never returned, never to be seen again...",
   ],
-  Dial1: [
-	  "show character y Normal with fadedIn",
-		"y For ages we have ignore this AND TODAY IT'S TIME FOR US TO END IT ALL",
-		"y WITH YOUR HELP AND ME "
-  ]
 });
