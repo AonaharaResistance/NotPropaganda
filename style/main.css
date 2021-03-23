@@ -94,6 +94,8 @@ button:hover {
 
 /* Style for Centered Text */
 [data-component="centered-dialog"] {
+  color: aliceblue;
+  top: 20%;
 }
 
 /* Character Images Styles */

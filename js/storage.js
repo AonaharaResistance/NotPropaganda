@@ -3,6 +3,15 @@
 // Persistent Storage Variable
 monogatari.storage ({
 	player: {
-		name: ''
+		stats: {
+			hp: 100,
+			mp: 250,
+			hpRegen: 2,
+			mpRegen: 50
+		},
+		inventory: {
+
+		},
+		
 	}
 });
